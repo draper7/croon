@@ -4,6 +4,9 @@ title:  "all in alabama"
 date:   2014-12-24 10:20:00
 categories: lyrics
 ---
+
+#### [ D _ 1 4 5 ]
+
 i just had to show 'em i didn't need em  
 and so i headed out west to see some old friends of mine  
 i thought if i'd climb up ole ajax mountain  
